@@ -1,6 +1,6 @@
 # Benchmark Overview
 
-This folder contains Omni problem JSON files where each file contains the gold-standard DAG-MATH formatted CoT that forms a directed acyclic graph (DAG). Files are named `problem_<id>_final.json` (e.g., `problem_0_final.json`). There are 2,894 JSON files in total.
+In [liminho123/DAG-MATH-Formatted-CoT](https://huggingface.co/datasets/liminho123/DAG-MATH-Formatted-CoT), there are 2,894 gold-standard DAG-MATH formatted CoTs for problems from [Omni-MATH](https://huggingface.co/datasets/KbsdJames/Omni-MATH). 
 
 ## Top‑Level Schema
 Each JSON file is a list with a single object describing the problem:
