@@ -1,4 +1,4 @@
-# openai_api
+# Evaluate Mathematical Reasoning of GPT Family in DAG-MATH Format
 
 Small utilities for running OpenAI Batch API jobs that return strict, structured outputs for DAG‑style math solutions.
 
